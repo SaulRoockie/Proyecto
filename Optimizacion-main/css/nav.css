@@ -25,6 +25,7 @@
     --fondoNav: #ffffff;
     --cambioNav: #baa24c;
     --letrasNav: #000000;
+    --fondoNavP: #fff;
 
     --fuentePrincipal: 'Handjet', cursive;
 
@@ -89,4 +90,34 @@ h1{
         justify-content: center;
         gap: 5rem;
     }
+}
+
+
+.contenedor__inicial{
+    width: 90%;
+    max-width: 95%;
+    margin: auto;
+
+
+}
+
+.contenedor__inicial-logos{
+
+}
+
+
+.logo__nav-fes{
+    width: 50%;
+    max-width: 300px;
+    display: inline-block;
+    margin: 0 125px;
+
+}
+
+.logo__nav-mac{
+    width: 50%;
+    max-width: 150px;
+    display: inline-block;
+    margin: 0 200px;
+
 }

@@ -1,5 +1,5 @@
 :root{
-    --SecundarioExp: #f0d911;
+    --SecundarioExp: #baa24c;
     --fuentePrincipal: 'Handjet', cursive;
 }
 
@@ -40,7 +40,7 @@ h4{
 }
 
 .btn-box button:hover{
-    color: #f0d911;
+    color: #baa24c;
 }
 
 .content-right img{

@@ -7,10 +7,23 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Handjet:wght@100;400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="http://localhost/Optimizacion-main/css/nav.css">
+    <link rel="stylesheet" href="css/nav.css">
 </head>
 <body>
-    <h1> Optimizacion</h1>
+    <div class="contenedor__inicial">
+    <a href="https://www.acatlan.unam.mx/">
+            <img class="logo__nav-fes" src="img/logo-Acatlan.png">
+    </a>
+
+    <h1 class = "logo__nav-fes"> Optimizacion</h1>
+
+    <a href="https://www.acatlan.unam.mx/">
+            <img class="logo__nav-mac" src="img/logo-MAC.png">
+    </a>
+
+
+    </div>
+
     <nav class="navegacion contenedor">
         <a class="navegacion__enlace" href="nosotros.html">Bloque 1</a>
         <a class="navegacion__enlace" href="nosotros.html">Bloque 2</a>

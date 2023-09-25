@@ -93,31 +93,30 @@ h1{
 }
 
 
+
 .contenedor__inicial{
-    width: 90%;
-    max-width: 95%;
-    margin: auto;
-
-
-}
-
-.contenedor__inicial-logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3.5rem;
+    padding: 0px 10% 0px;
+    margin-top: 50px;
 
 }
 
 
 .logo__nav-fes{
-    width: 50%;
-    max-width: 300px;
-    display: inline-block;
-    margin: 0 125px;
+    width: 30%;
+    height: 30%;
+
 
 }
 
-.logo__nav-mac{
-    width: 50%;
-    max-width: 150px;
-    display: inline-block;
-    margin: 0 200px;
+.logo__Opti{
+    
+}
 
+.logo__nav-mac{
+    width: 70%;
+    height: 70%;
 }

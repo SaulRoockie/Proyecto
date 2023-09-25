@@ -25,10 +25,7 @@
 
                 <div>
                     <h3 class="temas">2.1 Concepto de modelo, su clasificación y estructura</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                        Quas aliquam incidunt ea nihil suscipit 
-                        amet porro eligendi perferendis, ullam laboriosam? Maxime eius 
-                        laborum est placeat ipsa velit illum impedit a.</p>
+                    <p>La modelación matemática es un intento de describir alguna parte del mundo real en términos matemáticos.  En un modelo matemático se establece un conjunto de relaciones (de igualdad y/o de desigualdad) definidas en un conjunto de variables que reflejan la esencia de los fenómenos en el objeto de estudio. Existen diferentes modelos y aquí proporcionamos una clasificación de algunos</p>
                     <a href="Explicacion.php" class="boton boton--primario">Leer mas</a>
                 </div>
 

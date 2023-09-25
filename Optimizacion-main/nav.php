@@ -15,14 +15,18 @@
             <img class="logo__nav-fes" src="img/logo-Acatlan.png">
     </a>
 
-    <h1 class = "logo__nav-fes"> Optimizacion</h1>
+
 
     <a href="https://www.acatlan.unam.mx/">
             <img class="logo__nav-mac" src="img/logo-MAC.png">
     </a>
 
 
+
+
     </div>
+
+    <h1 class = "logo__Opti"> Optimizacion</h1>
 
     <nav class="navegacion contenedor">
         <a class="navegacion__enlace" href="nosotros.html">Bloque 1</a>

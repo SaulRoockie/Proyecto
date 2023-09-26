@@ -32,7 +32,7 @@
                 <a class="boton" href="#">Mostrar video</a>
             </div>
             <div class="content-right">
-            <iframe src="https://www.youtube.com/embed/rfSeEon9F9E?si=UeTrtxzDjQYDKctc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/Vo8GAil5t_g?si=7C-3zlauJJDp1tTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
 

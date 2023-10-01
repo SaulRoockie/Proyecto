@@ -15,7 +15,7 @@
     <?php
     include('nav.php');
     ?>
-
+<embed src="Optimizacion-main\pdfs\Definición de problema de programación lineal.pdf" type="application/pdf"> 
     <div class="hero">
         <div class="btn-box">
             <button id="btn1" onclick="openHTML()">Explicacion </button>
@@ -60,7 +60,7 @@
                 <a class="boton" href="#">Mostrar video</a>
             </div>
             <div class="content-right">
-            <embed src="Optimizacion-main\pdfs\Definición de problema de programación lineal.pdf" type="application/pdf">    
+            <embed class="pdf" src="Definicion.pdf" type="application/pdf">    
             </div>
         </div>
     </div>

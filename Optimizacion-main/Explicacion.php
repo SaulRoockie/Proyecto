@@ -60,7 +60,7 @@
                 <a class="boton" href="#">Mostrar video</a>
             </div>
             <div class="content-right">
-                <img src="img/algo.jpg" alt="">
+            <embed src="Optimizacion-main\pdfs\Definición de problema de programación lineal.pdf" type="application/pdf">    
             </div>
         </div>
     </div>

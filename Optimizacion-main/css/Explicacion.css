@@ -94,3 +94,9 @@ iframe{
 #btn1{
     color:var(--SecundarioExp);
 }
+
+.pdf{
+    width: 150px;
+    height: 150px;
+
+}

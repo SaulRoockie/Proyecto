@@ -1,0 +1,13 @@
+label{
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed #ccc;
+    margin-bottom: 3px;
+}
+
+.contenedor__preguntas{
+    max-width: 600px;
+    margin-left: 300px;
+}

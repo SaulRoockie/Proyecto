@@ -38,12 +38,36 @@
 
         <div id="content2" class="content">
             <div class="content-left">
-                <h4> EJERCICIO </h4>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                     Blanditiis delectus dolorum sapiente animi ad quasi! Ut aperiam optio aliquam.
-                      Hic aliquam in quisquam commodi corporis autem quod placeat voluptatem maxime
-                </p>
-                <a class="boton" href="#">Mostrar video</a>
+                <h4> Que es la programacion lineal? </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, a. Illum cum minus qui error ad dicta, officia exercitationem repudiandae temporibus expedita quia quibusdam ea consequuntur velit beatae. Ipsam, tempora.</p>
+                <label class="preguntas">
+                    <input type="radio" value="1" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="2" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="3" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="4" name="p0"> Respuesta del usuario
+                </label>
+
+                <h4> Que es la programacion lineal? </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, a. Illum cum minus qui error ad dicta, officia exercitationem repudiandae temporibus expedita quia quibusdam ea consequuntur velit beatae. Ipsam, tempora.</p>
+                <label class="preguntas">
+                    <input type="radio" value="1" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="2" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="3" name="p0"> Respuesta del usuario
+                </label>
+                <label class="preguntas">
+                    <input type="radio" value="4" name="p0"> Respuesta del usuario
+                </label>
+        
             </div>
             <div class="content-right">
                 <img src="img/algo.jpg" alt="">

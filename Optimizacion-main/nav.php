@@ -30,7 +30,7 @@
 
     <nav class="navegacion contenedor">
         <a class="navegacion__enlace" href="nosotros.html">Bloque 1</a>
-        <a class="navegacion__enlace" href="nosotros.html">Bloque 2</a>
+        <a class="navegacion__enlace" href="Optimizacion.php">Bloque 2</a>
         <a class="navegacion__enlace" href="nosotros.html">Bloque 3</a>
         <a class="navegacion__enlace" href="nosotros.html">Bloque 4</a>
     </nav>

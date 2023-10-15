@@ -135,10 +135,11 @@ h4{
     display: block;
     text-align: center;
     font-size: 1.3rem;
+    font-family: var(--fuentePrincipal);
     text-transform: uppercase;
     font-weight: 700;
     margin-bottom: 2rem;
-    border: 2px  solid var(--blanco);
+    border: 2px  dashed var(--blanco);
     border-radius: 1rem;
     border-color: var(--blanco);
 

@@ -69,18 +69,18 @@
 
             <ul class="Autores">
                 <li class="widget-autores">
-                    <h4 class="autores">Hernandez Perez Saul David</h4>
+                    <h4 class="autores">Ackoff, R. (2002)</h4>
                     <div>
-                        <img src="img/9789681861995.jpg" alt="">
+                        <img src="img/Paradigma.jpg" alt="">
                     </div>
                     <a href="libros.php" class="boton boton--secundario">Leer libro</a>
                 </li>
 
 
                 <li class="widget-autores">
-                    <h4 class="autores">Hernandez Perez Saul David</h4>
+                    <h4 class="autores"> Hadley, G. (1988)</h4>
                     <div>
-                        <img src="img/9789681861995.jpg" alt="">
+                        <img src="img/Linear-programming.jpg" alt="">
                     </div>
                     <a href="#" class="boton boton--secundario">Leer libro</a>
 
@@ -89,9 +89,9 @@
 
 
                 <li class="widget-autores">
-                    <h4 class="autores">Hernandez Perez Saul David</h4>
+                    <h4 class="autores"> Hillier y Lieberman. (2004)</h4>
                     <div>
-                        <img src="img/9789681861995.jpg" alt="">
+                        <img src="img/Investigacion-de-operaciones.jpg" alt="">
                     </div>
                     <a href="#" class="boton boton--secundario">Leer libro</a>
 

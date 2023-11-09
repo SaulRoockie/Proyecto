@@ -53,20 +53,7 @@
                     <input type="radio" value="4" name="p0"> Respuesta del usuario
                 </label>
 
-                <h4> Que es la programacion lineal? </h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, a. Illum cum minus qui error ad dicta, officia exercitationem repudiandae temporibus expedita quia quibusdam ea consequuntur velit beatae. Ipsam, tempora.</p>
-                <label class="preguntas">
-                    <input type="radio" value="1" name="p0"> Respuesta del usuario
-                </label>
-                <label class="preguntas">
-                    <input type="radio" value="2" name="p0"> Respuesta del usuario
-                </label>
-                <label class="preguntas">
-                    <input type="radio" value="3" name="p0"> Respuesta del usuario
-                </label>
-                <label class="preguntas">
-                    <input type="radio" value="4" name="p0"> Respuesta del usuario
-                </label>
+                <a class="boton" href="#">Mostrar Respuestas</a>
         
             </div>
             <div class="content-right">
@@ -102,8 +89,8 @@
             content2.style.transform = "translateX(100%)";
             content3.style.transform = "translateX(100%)";
             btn1.style.color = "#baa24c";
-            btn2.style.color = "#000";
-            btn3.style.color = "#000";
+            btn2.style.color = "#ffffff";
+            btn3.style.color = "#ffffff";
             content1.style.transitionDelay = "0.3s";
             content2.style.transitionDelay = "0s";
             content3.style.transitionDelay = "0s";
@@ -113,9 +100,9 @@
             content1.style.transform = "translateX(100%)";
             content2.style.transform = "translateX(0)";
             content3.style.transform = "translateX(100%)";
-            btn1.style.color = "#000";
+            btn1.style.color = "#ffffff";
             btn2.style.color = "#baa24c";
-            btn3.style.color = "#000";
+            btn3.style.color = "#ffffff";
             content1.style.transitionDelay = "0s";
             content2.style.transitionDelay = "0.3s";
             content3.style.transitionDelay = "0s";
@@ -125,8 +112,8 @@
             content1.style.transform = "translateX(100%)";
             content2.style.transform = "translateX(100%)";
             content3.style.transform = "translateX(0)";
-            btn1.style.color = "#000";
-            btn2.style.color = "#000";
+            btn1.style.color = "#ffffff";
+            btn2.style.color = "#ffffff";
             btn3.style.color = "#baa24c";
             content1.style.transitionDelay = "0s";
             content2.style.transitionDelay = "0s";

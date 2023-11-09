@@ -1,0 +1,68 @@
+:root {
+    --primarioClaro: #ffffff;
+    --primario: #000000 ;
+    --blanco: #fff;
+    --negro: #000;
+    --boton: #000000;
+    
+    --fuentePrincipal: 'Handjet', cursive;
+    
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; 
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/** Globales **/
+body {
+    background-color: var(--primario);
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+p {
+    font-size: 1.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--negro);
+}
+h1, h2, h3 {
+    text-align: center;
+
+    font-family: var(--fuentePrincipal);
+}
+h1 {
+    font-size: 4rem;
+    color: #000;
+}
+h2 {
+    font-size: 3.2rem;
+}
+h3 {
+    font-size: 2.4rem;
+}
+
+.izquierda{
+    background: var(--blanco);
+    height: 100vh;
+    width: 50%;
+    padding: 5%;
+}
+
+.derecha{
+    background-image: url("../img/Foto.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+
+
+}
+
+.pantalla-dividida{
+    display: flex;
+    margin: 10rem 30rem 10rem 30rem;
+}

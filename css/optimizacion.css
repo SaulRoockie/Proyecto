@@ -1,7 +1,34 @@
+:root {
+    --colorPrincipal: white;
+    --colorSecundario: black;
+    --FuentePrincipal: 'Handjet', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    /* margin: 10px; */
+    padding: 0;
+    color: var(--colorPrincipal);
+    font-family: var(--FuentePrincipal);
+}
+
 header {
     width: 100%;
     height: 300px;
-    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.fondo__header {
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
 }
 
 .contenedor__logos {
@@ -10,22 +37,83 @@ header {
     display: flex;
     justify-content: space-between; 
 
+    border: 1px solid red;
+
+}
+
+.contenedor__logos > i {
+    color: blue;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     border: 1px solid black;
 }
 
 .contenedor__logos a {
-    width: 30px;
+    /* width: 33%; */
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.logo__nav-fes {
-    width: 10px;
-    height: 100%;
-    /* border: 2px solid orange;         */
+.logo__mac {
+    width: 150px;
+    height: 60%;
+    transition: 0.5s all;
+
+    border: 1px solid black;
 }
 
-.logo__nav-mac {
-    width: 300px;
-    height: 100%;
-    /* border: 2px solid orange;         */
+.menu__icono {
+    transition: 0.5s all;
+}
+
+.logo__mac:hover, .menu__icono:hover {
+    opacity: 0.5;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+/* Estilos del menu */
+
+.menu {
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    position: absolute;
+    top: -100vh;
+    left: 0;
+    z-index: 1;
+    transition: 1s all;
+    background-color: black;
+}
+
+.contenedor__enlaces {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.contenedor__enlaces > a {
+    font-size: 50px;
+}
+
+.contenedor__exit {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    padding: 25px;
 }

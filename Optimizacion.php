@@ -13,28 +13,30 @@
 
 <body>
 
-    <!-- <?php
-    // include('nav.php');
-    ?> -->
-
-    <header>
-        <div class="contenedor__logos">
-            <a href="https://www.acatlan.unam.mx/">
-                <img class="logo__nav-fes" src="img/logo-Acatlan.png">
-            </a>
-            <a href="https://www.acatlan.unam.mx/">
-                <img class="logo__nav-mac" src="img/logo-MAC.png">
-            </a>
-        </div>
-
-        <h1 class = "logo__Opti"> Optimizacion</h1>
-
-        <nav class="navegacion contenedor">
+    <nav class="menu">
+        <div class="contenedor__enlaces">
             <a class="navegacion__enlace" href="nosotros.html">Bloque 1</a>
             <a class="navegacion__enlace" href="Optimizacion.php">Bloque 2</a>
             <a class="navegacion__enlace" href="nosotros.html">Bloque 3</a>
             <a class="navegacion__enlace" href="nosotros.html">Bloque 4</a>
-        </nav>
+        </div>
+        <div class="contenedor__exit">
+            <i class="fa-regular fa-circle-xmark fa-2x exit__icono"></i>
+        </div>
+    </nav>
+
+    <header>
+        <div class="contenedor__logos">
+            <a href="https://www.acatlan.unam.mx/" target="_black">
+                <img class="logo__mac" src="img/logo-MAC.png">
+            </a>
+
+            <i class="fa-solid fa-bars fa-2x menu__icono"></i>
+        </div>
+
+        <h1>Optimizacion</h1>
+
+        <img class="fondo__header" src="img/fes.jpg">
     </header>
 
     <div class="contenidos">
@@ -118,5 +120,7 @@
     include('footer.php');
     ?>
 
+    <script src="https://kit.fontawesome.com/dd49de8bb8.js" crossorigin="anonymous"></script>
+    <script src="js/optimizacion.js"></script>
 </body>
 </html>
